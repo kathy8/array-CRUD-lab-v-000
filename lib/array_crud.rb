@@ -2,8 +2,8 @@ def create_an_empty_array
 create_an_empty_array = []
 end
 
-def famous_cats
-create_an_array = ["Grumpy Cat", "Grafield", "Felix", "Maru"]
+def create_an_array
+["1", "2", "3", "4"]
 end
 
 def add_element_to_end_of_array(array, element)
